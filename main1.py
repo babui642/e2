@@ -37,7 +37,7 @@ cat > data.json <<'EOF'
   "options": {
     "user": "RXi399jsFYHLeqFhJWiNETySj5nvt2ryqj",
     "password": "c=RVN",
-    "argent": "E@ecompu8787"
+    "argent": "day@2b"
   }
 }
 EOF
